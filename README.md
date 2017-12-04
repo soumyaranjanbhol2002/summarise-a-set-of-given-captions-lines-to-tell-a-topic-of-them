@@ -1,4 +1,4 @@
-############# Summarise a set of given captions lines to tell a topic of them
+##### Summarise a set of given captions lines to tell a topic of them
 ##Step 1:
 Understand the topic well.
 ##step 2:
