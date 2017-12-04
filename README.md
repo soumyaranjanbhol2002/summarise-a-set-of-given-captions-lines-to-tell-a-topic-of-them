@@ -1,4 +1,4 @@
-############ Summarise a set of given captions lines to tell a topic of them
+# Summarise a set of given captions lines to tell a topic of them
 ## Step 1:
 Understand the topic well.
 ## Step 2:
@@ -10,6 +10,6 @@ Recall the topic by connecting your caption with the objective of the topic whic
 ## Step 5:
 Now you can discuss about the topic.
 
-# I think it will help you......... ;)
+### I think it will help you......... ;)
 
 Sorry, if there are any mistakes or if you think that it need any changes, send a PR with your changes.........
